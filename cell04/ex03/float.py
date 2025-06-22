@@ -5,7 +5,6 @@ def classify_and_convert_number():
         num_float = float(user_input)
         if num_float.is_integer():
             num_int = int(num_float)
-            print(num_int)
             print("This number is an integer.")
         else:
             print("This number is a decimal.")
