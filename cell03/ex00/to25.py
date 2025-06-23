@@ -5,5 +5,5 @@ if i <25:
     while i<25:
         i+=1
         print("Inside the loop, my variable is", i)
-    else:
-        print("Inside the loop, my variable is 25")
+else:
+    print("Error")
