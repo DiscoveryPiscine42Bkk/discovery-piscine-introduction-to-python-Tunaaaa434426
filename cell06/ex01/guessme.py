@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#Wiritpol, Harith, Rattanakorn
+#Wiritpol Sayamipuk, Harith Noiboonsuk, Rattanakorn
 
 import random
 
